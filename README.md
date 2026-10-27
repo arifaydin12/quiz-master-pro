@@ -4,7 +4,7 @@ A modern, responsive trivia game with three game modes, lifelines, streak bonuse
 
 ![Quiz Master Pro](docs/screenshot.png)
 
-**[Play it in the browser](https://vaas125.github.io/quiz-master-pro/)**
+**[Play it in the browser](https://arifaydin12.github.io/quiz-master-pro/)**
 
 ## Features
 
@@ -30,7 +30,7 @@ HTML5, CSS3 (custom properties, Grid, Flexbox, animations), vanilla JavaScript (
 No installation is required. An internet connection is needed to fetch questions.
 
 ```bash
-git clone https://github.com/vaas125/quiz-master-pro.git
+git clone https://github.com/arifaydin12/quiz-master-pro.git
 cd quiz-master-pro
 python -m http.server 8000   # or: npx serve .
 ```
@@ -49,4 +49,4 @@ docs/                 Screenshot
 
 ## License
 
-[MIT](LICENSE) © Arif Enes
+[MIT](LICENSE) © Arif Enes Aydin
